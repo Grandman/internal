@@ -1,1 +1,2 @@
-# internal
+* [Регламент](regulations.md)
+* 
